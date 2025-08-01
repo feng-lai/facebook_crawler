@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README-jp.md) | [العربية](README-ar.md) | [Português](README-pt.md) | [Español](README-es.md)
+
 # Facebook crawler usage instructions
 
 ## 1. Install dependency libraries
